@@ -8,8 +8,8 @@ Age = "18"
 Country = "🇮🇳"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/@M1CKEY_0P-30302f?style=for-the-badge&logo=telegram)](https://t.me/M1CKEY_0P)
-[![mailid badge](https://img.shields.io/badge/MICKEYOP-30302f?style=for-the-badge&logo=gmail)](mailto:dishantmeena456@gmail.com)
+[![telegram badge](https://img.shields.io/badge/@MICKEY_xD-30302f?style=for-the-badge&logo=telegram)](https://t.me/M1CKEY_0P)
+[![mailid badge](https://img.shields.io/badge/MICKEYxd-30302f?style=for-the-badge&logo=gmail)](mailto:dishantmeena456@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MickeyxD&label=Profile%20Views&color=orange&style=flat-square" alt="Mickeyxd" /> </p>
 
 - 😄I'm Still Learning Git & GitHub
