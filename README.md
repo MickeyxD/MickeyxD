@@ -7,6 +7,7 @@ who_i_am = ['Coding':  '❣️']
 Age = "18"
 Country = "🇮🇳"
 ```
+![ase kya dhk rha meri he dp h](https://telegra.ph/file/46a1e7039941f165bbbdd.jpg)
 #### 
 [![telegram badge](https://img.shields.io/badge/@MICKEY_xD-30302f?style=for-the-badge&logo=telegram)](https://t.me/M1CKEY_0P)
 [![mailid badge](https://img.shields.io/badge/MICKEYxd-30302f?style=for-the-badge&logo=gmail)](mailto:dishantmeena456@gmail.com)
