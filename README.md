@@ -2,16 +2,16 @@
 
 ### 
 ```python
-Name = "MICKEY OP"
+Name = "MickeyxD"
 who_i_am = ['Coding':  '❣️']
 Age = "18"
 Country = "🇮🇳"
 ```
 ![ase kya dhk rha meri he dp h](https://telegra.ph/file/46a1e7039941f165bbbdd.jpg)
 #### 
-[![telegram badge](https://img.shields.io/badge/@MICKEY_xD-30302f?style=for-the-badge&logo=telegram)](https://t.me/M1CKEY_0P)
+[![telegram badge](https://img.shields.io/badge/@MickeyxD-30302f?style=for-the-badge&logo=telegram)](https://t.me/MickeyxD)
 [![mailid badge](https://img.shields.io/badge/MICKEYxd-30302f?style=for-the-badge&logo=gmail)](mailto:dishantmeena456@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MickeyxD&label=Profile%20Views&color=orange&style=flat-square" alt="Mickeyxd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MickeyxD&label=Profile%20Views&color=orange&style=flat-square" alt="MickeyxD" /> </p>
 
 - 😄I'm Still Learning Git & GitHub
 - ☀️Python Lover
