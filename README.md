@@ -9,7 +9,13 @@ Country = "🇮🇳"
 ```
 ![ase kya dhk rha meri he dp h](https://telegra.ph/file/46a1e7039941f165bbbdd.jpg)
 #### 
-[![telegram badge](https://img.shields.io/badge/@MickeyxD-30302f?style=for-the-badge&logo=telegram)](https://t.me/MickeyxD)
+
+## Reach out to me 👻
+
+|  <a href="https://www.instagram.com/tipsy_x17"><img src="https://telegra.ph/file/74806217c0bb7cfa52971.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                   |
+|[![Telegram badge](https://img.shields.io/badge/@MickeyxD-30302f?style=for-the-badge&logo=telegram)](https://t.me/MickeyxD)                                                                              |
 [![mailid badge](https://img.shields.io/badge/MICKEYxd-30302f?style=for-the-badge&logo=gmail)](mailto:dishantmeena456@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MickeyxD&label=Profile%20Views&color=orange&style=flat-square" alt="MickeyxD" /> </p>
 
