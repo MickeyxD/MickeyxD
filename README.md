@@ -7,8 +7,7 @@ who_i_am = ['Coding':  '❣️']
 Age = "18"
 Country = "🇮🇳"
 ```
-![ase kya dhk rha meri he dp h](https://telegra.ph/file/46a1e7039941f165bbbdd.jpg)
-#### 
+
 
 ## Reach out to me 👻
 
