@@ -1,15 +1,16 @@
-### ⚡ HELLO ⚡
+### ʜᴇʟʟᴏ ᴇᴠᴇʀʏᴏɴᴇ ♡
 
-### 
-```python
-Name = "MickeyxD"
-who_i_am = ['Coding':  '❣️']
-Age = "18"
-Country = "🇮🇳"
-```
+"ɴᴀᴍᴇ = "ᴍɪᴄᴋᴇʏxᴅ"
+
+ᴡʜᴏ ɪ ᴀᴍ = ['ᴄᴏᴅɪɴɢ:  '❣️']
+
+ᴀɢᴇ = "18"
+
+ᴄᴏᴜɴᴛʀʏ = "🇮🇳"
 
 
-## Reach out to me 👻
+
+## ʀᴇᴀᴄʜ ᴏᴜᴛ ᴛᴏ ᴍᴇ 👻
 
 |  <a href="https://www.instagram.com/tipsy_x17"><img src="https://telegra.ph/file/74806217c0bb7cfa52971.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
@@ -18,17 +19,17 @@ Country = "🇮🇳"
 [![mailid badge](https://img.shields.io/badge/MICKEYxd-30302f?style=for-the-badge&logo=gmail)](mailto:dishantmeena456@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MickeyxD&label=Profile%20Views&color=orange&style=flat-square" alt="MickeyxD" /> </p>
 
-- 😄I'm Still Learning Git & GitHub
-- ☀️Python Lover
-- ⚜️Most Of My Repositories Are For Telegram
+- 😄ɪ'ᴍ ꜱᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ ɢɪᴛ & ɢɪᴛʜᴜʙ
+- ☀️ᴘʏᴛʜᴏɴ ʟᴏᴠᴇʀ
+- ⚜️ᴍᴏꜱᴛ ᴏғ ᴍʏ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ ᴀʀᴇ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
 
-<h4 align="center"><b>My GitHub Stats💛</b></h4>
+<h4 align="center"><b>ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ💛</b></h4>
 
 ![MICKEYXD Git Stats](https://github-readme-stats.vercel.app/api?username=MickeyxD&include_all_commits=true&count_private=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickeyxD&layout=compact&theme=radical)](https://github.com/MickeyxD)
 
-### Languages and Tools I Love❤️
+### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ ɪ ʟᴏᴠᴇ❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
